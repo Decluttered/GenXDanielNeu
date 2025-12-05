@@ -1,0 +1,540 @@
+   16.06.2025 02:10:43   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   16.06.2025 07:56:08   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   16.06.2025 07:56:12   
+ Anzahl erzeugter Sendungen die Ungültig sind : 1 
+ Anzahl erzeugter Sendungen die Semigültig sind : 1
+ Anzahl erzeugter Sendungen die Gültig sind : 1
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 1
+ Anzahl erzeugter Sendungen die Ambient sind : 1
+ Anzahl erzeugter Sendungen die KTL enthalten : 1
+   17.06.2025 06:23:42   
+ Anzahl erzeugter Sendungen die Ungültig sind : 5 
+ Anzahl erzeugter Sendungen die Semigültig sind : 5
+ Anzahl erzeugter Sendungen die Gültig sind : 5
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 5
+ Anzahl erzeugter Sendungen die Ambient sind : 5
+ Anzahl erzeugter Sendungen die KTL enthalten : 5
+   17.06.2025 06:40:18   
+ Anzahl erzeugter Sendungen die Ungültig sind : 4 
+ Anzahl erzeugter Sendungen die Semigültig sind : 5
+ Anzahl erzeugter Sendungen die Gültig sind : 5
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 5
+ Anzahl erzeugter Sendungen die Ambient sind : 5
+ Anzahl erzeugter Sendungen die KTL enthalten : 5
+   17.06.2025 06:44:58   
+ Anzahl erzeugter Sendungen die Ungültig sind : 5 
+ Anzahl erzeugter Sendungen die Semigültig sind : 5
+ Anzahl erzeugter Sendungen die Gültig sind : 5
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 5
+ Anzahl erzeugter Sendungen die Ambient sind : 5
+ Anzahl erzeugter Sendungen die KTL enthalten : 5
+   17.06.2025 06:45:35   
+ Anzahl erzeugter Sendungen die Ungültig sind : 5 
+ Anzahl erzeugter Sendungen die Semigültig sind : 5
+ Anzahl erzeugter Sendungen die Gültig sind : 5
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 5
+ Anzahl erzeugter Sendungen die Ambient sind : 5
+ Anzahl erzeugter Sendungen die KTL enthalten : 5  
+   17.06.2025 09:29:58   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 09:42:01   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 09:54:18   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 09:55:06   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 12:27:44   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 12:28:06   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 12:32:29   
+ Anzahl erzeugter Sendungen die Ungültig sind : 2 
+ Anzahl erzeugter Sendungen die Semigültig sind : 2
+ Anzahl erzeugter Sendungen die Gültig sind : 2
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 2
+ Anzahl erzeugter Sendungen die Ambient sind : 2
+ Anzahl erzeugter Sendungen die KTL enthalten : 2
+   17.06.2025 12:44:40   
+ Anzahl erzeugter Sendungen die Ungültig sind : 5 
+ Anzahl erzeugter Sendungen die Semigültig sind : 5
+ Anzahl erzeugter Sendungen die Gültig sind : 5
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 5
+ Anzahl erzeugter Sendungen die Ambient sind : 5
+ Anzahl erzeugter Sendungen die KTL enthalten : 5
+   17.06.2025 01:09:57   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 01:09:57   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 01:41:05   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 01:41:05   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 01:41:05   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 01:41:05   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 01:41:05   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 01:41:57   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 01:41:57   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 01:41:57   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 02:37:25   
+ Anzahl erzeugter Sendungen die Ungültig sind : 3 
+ Anzahl erzeugter Sendungen die Semigültig sind : 3
+ Anzahl erzeugter Sendungen die Gültig sind : 3
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 3
+ Anzahl erzeugter Sendungen die Ambient sind : 3
+ Anzahl erzeugter Sendungen die KTL enthalten : 3
+   17.06.2025 02:37:42   
+ Anzahl erzeugter Sendungen die Ungültig sind : 4 
+ Anzahl erzeugter Sendungen die Semigültig sind : 4
+ Anzahl erzeugter Sendungen die Gültig sind : 4
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 4
+ Anzahl erzeugter Sendungen die Ambient sind : 4
+ Anzahl erzeugter Sendungen die KTL enthalten : 4
+   17.06.2025 02:37:50   
+ Anzahl erzeugter Sendungen die Ungültig sind : 55 
+ Anzahl erzeugter Sendungen die Semigültig sind : 5
+ Anzahl erzeugter Sendungen die Gültig sind : 55
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 555
+ Anzahl erzeugter Sendungen die Ambient sind : 55
+ Anzahl erzeugter Sendungen die KTL enthalten : 55
+   17.06.2025 02:38:07   
+ Anzahl erzeugter Sendungen die Ungültig sind : 5 
+ Anzahl erzeugter Sendungen die Semigültig sind : 5
+ Anzahl erzeugter Sendungen die Gültig sind : 5
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 5
+ Anzahl erzeugter Sendungen die Ambient sind : 5
+ Anzahl erzeugter Sendungen die KTL enthalten : 5
+   17.06.2025 02:38:15   
+ Anzahl erzeugter Sendungen die Ungültig sind : 5 
+ Anzahl erzeugter Sendungen die Semigültig sind : 5
+ Anzahl erzeugter Sendungen die Gültig sind : 5
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 5
+ Anzahl erzeugter Sendungen die Ambient sind : 5
+ Anzahl erzeugter Sendungen die KTL enthalten : 5
+   17.06.2025 02:40:15   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 02:40:15   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 02:40:15   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 02:40:15   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 02:40:15   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 02:40:15   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 02:40:15   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 02:40:15   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 02:49:59   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 02:49:59   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 02:50:47   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 02:50:47   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 02:50:47   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 02:50:47   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 02:50:47   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 02:50:47   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 03:15:07   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 03:15:07   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 03:15:07   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 03:15:07   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 03:15:07   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 03:15:07   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 03:37:08   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 03:37:08   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 03:37:08   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 03:37:08   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 03:37:08   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 03:37:08   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 03:37:08   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 03:37:08   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 03:37:08   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 03:37:08   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 03:37:08   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 03:37:08   
+ Anzahl erzeugter Sendungen die Ungültig sind : 0 
+ Anzahl erzeugter Sendungen die Semigültig sind : 0
+ Anzahl erzeugter Sendungen die Gültig sind : 0
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 0
+ Anzahl erzeugter Sendungen die Ambient sind : 0
+ Anzahl erzeugter Sendungen die KTL enthalten : 0
+   17.06.2025 03:43:38   
+ Anzahl erzeugter Sendungen die Ungültig sind : 1 
+ Anzahl erzeugter Sendungen die Semigültig sind : 1 
+ Anzahl erzeugter Sendungen die Gültig sind : 1 
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 1 
+ Anzahl erzeugter Sendungen die Ambient sind : 1 
+ Anzahl erzeugter Sendungen die KTL enthalten :  1 
+   17.06.2025 03:43:38   
+ Anzahl erzeugter Sendungen die Ungültig sind : 1 
+ Anzahl erzeugter Sendungen die Semigültig sind : 1 
+ Anzahl erzeugter Sendungen die Gültig sind : 1 
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 1 
+ Anzahl erzeugter Sendungen die Ambient sind : 1 
+ Anzahl erzeugter Sendungen die KTL enthalten :  1 
+   17.06.2025 03:43:38   
+ Anzahl erzeugter Sendungen die Ungültig sind : 1 
+ Anzahl erzeugter Sendungen die Semigültig sind : 1 
+ Anzahl erzeugter Sendungen die Gültig sind : 1 
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 1 
+ Anzahl erzeugter Sendungen die Ambient sind : 1 
+ Anzahl erzeugter Sendungen die KTL enthalten :  1 
+   17.06.2025 03:44:18   
+ Anzahl erzeugter Sendungen die Ungültig sind : 1 
+ Anzahl erzeugter Sendungen die Semigültig sind : 1 
+ Anzahl erzeugter Sendungen die Gültig sind : 1 
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 1 
+ Anzahl erzeugter Sendungen die Ambient sind : 1 
+ Anzahl erzeugter Sendungen die KTL enthalten :  1 
+   17.06.2025 03:45:54   
+ Anzahl erzeugter Sendungen die Ungültig sind : 1 
+ Anzahl erzeugter Sendungen die Semigültig sind : 1 
+ Anzahl erzeugter Sendungen die Gültig sind : 1 
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 1 
+ Anzahl erzeugter Sendungen die Ambient sind : 1 
+ Anzahl erzeugter Sendungen die KTL enthalten :  1 
+   17.06.2025 03:45:54   
+ Anzahl erzeugter Sendungen die Ungültig sind : 1 
+ Anzahl erzeugter Sendungen die Semigültig sind : 1 
+ Anzahl erzeugter Sendungen die Gültig sind : 1 
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 1 
+ Anzahl erzeugter Sendungen die Ambient sind : 1 
+ Anzahl erzeugter Sendungen die KTL enthalten :  1 
+   17.06.2025 03:46:24   
+ Anzahl erzeugter Sendungen die Ungültig sind : 1 
+ Anzahl erzeugter Sendungen die Semigültig sind : 1
+ Anzahl erzeugter Sendungen die Gültig sind : 1
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 1
+ Anzahl erzeugter Sendungen die Ambient sind : 1
+ Anzahl erzeugter Sendungen die KTL enthalten : 1
+   17.06.2025 03:46:24   
+ Anzahl erzeugter Sendungen die Ungültig sind : 1 
+ Anzahl erzeugter Sendungen die Semigültig sind : 1
+ Anzahl erzeugter Sendungen die Gültig sind : 1
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 1
+ Anzahl erzeugter Sendungen die Ambient sind : 1
+ Anzahl erzeugter Sendungen die KTL enthalten : 1
+   17.06.2025 03:46:24   
+ Anzahl erzeugter Sendungen die Ungültig sind : 1 
+ Anzahl erzeugter Sendungen die Semigültig sind : 1
+ Anzahl erzeugter Sendungen die Gültig sind : 1
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 1
+ Anzahl erzeugter Sendungen die Ambient sind : 1
+ Anzahl erzeugter Sendungen die KTL enthalten : 1
+   17.06.2025 03:47:31   
+ Anzahl erzeugter Sendungen die Ungültig sind : 1 
+ Anzahl erzeugter Sendungen die Semigültig sind : 1
+ Anzahl erzeugter Sendungen die Gültig sind : 1
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 1
+ Anzahl erzeugter Sendungen die Ambient sind : 1
+ Anzahl erzeugter Sendungen die KTL enthalten : 1
+   17.06.2025 03:47:31   
+ Anzahl erzeugter Sendungen die Ungültig sind : 1 
+ Anzahl erzeugter Sendungen die Semigültig sind : 1
+ Anzahl erzeugter Sendungen die Gültig sind : 1
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 1
+ Anzahl erzeugter Sendungen die Ambient sind : 1
+ Anzahl erzeugter Sendungen die KTL enthalten : 1
+   18.06.2025 08:12:45   
+ Anzahl erzeugter Sendungen die Ungültig sind : 1 
+ Anzahl erzeugter Sendungen die Semigültig sind : 1
+ Anzahl erzeugter Sendungen die Gültig sind : 1
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 1
+ Anzahl erzeugter Sendungen die Ambient sind : 1
+ Anzahl erzeugter Sendungen die KTL enthalten : 1
+   18.06.2025 08:12:45   
+ Anzahl erzeugter Sendungen die Ungültig sind : 2 
+ Anzahl erzeugter Sendungen die Semigültig sind : 2
+ Anzahl erzeugter Sendungen die Gültig sind : 1
+ Anzahl erzeugter Sendungen die Gefahrgut enthalten  : 1
+ Anzahl erzeugter Sendungen die Ambient sind : 1
+ Anzahl erzeugter Sendungen die KTL enthalten : 1
+ 

@@ -1,0 +1,14 @@
+package Sendungsarten;
+
+
+	public enum Dienst{
+		NORMAL,AMBIENT,THERMOMED,NACHT,KTL,GEFAHRGUT;
+	}
+	
+	enum Type{
+		RECIPIENT,PICKUP,DESTINATION,SHIPPER;
+	}
+	
+	enum Timeservice{
+		NORMAL,PLUS8,PLUS9,PLUS10,PLUS12,SATURDAY,DIRECT,EVENING,NIGHT;
+	}

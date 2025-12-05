@@ -1,0 +1,82 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  EXCEPTION_STACK_OVERFLOW (0xc00000fd) at pc=0x00007fff37de96e0, pid=60472, tid=0x000000000018e458
+#
+# JRE version: Java(TM) SE Runtime Environment (8.0_441) (build 1.8.0_441-b07)
+# Java VM: Java HotSpot(TM) 64-Bit Server VM (25.441-b07 mixed mode windows-amd64 compressed oops)
+# Problematic frame:
+# V  [jvm.dll+0x2196e0]
+#
+# Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+#
+# If you would like to submit a bug report, please visit:
+#   http://bugreport.java.com/bugreport/crash.jsp
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x0000018ccc2af800):  JavaThread "Timer-96216" [_thread_in_vm, id=1631320, stack(0x0000004f95700000,0x0000004f95800000)]
+
+siginfo: ExceptionCode=0xc00000fd, ExceptionInformation=0x0000000000000001 0x0000004f957fc0b0 
+
+Registers:
+RAX=0x0000000000000004, RBX=0x0000000000000004, RCX=0x0000004f957fc0b0, RDX=0x0000000000003000
+RSP=0x0000004f957ff0b0, RBP=0x0000004f957ff1b0, RSI=0x0000000000000004, RDI=0x0000018cfde88698
+R8 =0x0000000000000005, R9 =0x0000000000000006, R10=0x0000018ca7bcfca0, R11=0x0000018cfde88698
+R12=0x0000018cbb50afd0, R13=0x0000004f957ff3c0, R14=0x0000004f957ff0b0, R15=0x0000004f957ff490
+RIP=0x00007fff37de96e0, EFLAGS=0x0000000000010202
+
+Top of Stack: (sp=0x0000004f957ff0b0)
+0x0000004f957ff0b0:   0000018ccc2af800 0000000000000001
+0x0000004f957ff0c0:   0000018cfde88698 00007fff37c9ae7b
+0x0000004f957ff0d0:   0000018cfde88698 0000018ccc2af800
+0x0000004f957ff0e0:   0000000200140012 0000018ce5560570
+0x0000004f957ff0f0:   0000000ac0006a00 0000018cfde88698
+0x0000004f957ff100:   0000018ccc2af800 00000007c00476b8
+0x0000004f957ff110:   0000000000000001 00007fff9c8febe8
+0x0000004f957ff120:   0000018cfde88698 00007fff00000001
+0x0000004f957ff130:   0000018c00000006 0000018ccc2af800
+0x0000004f957ff140:   0000018cfde88698 0000018ccc2af800
+0x0000004f957ff150:   0000018ce55f6ea0 0000018ccc2af800
+0x0000004f957ff160:   0000018ccc2af800 0000018ccc2af800
+0x0000004f957ff170:   0000004f957ff280 0000000000000006
+0x0000004f957ff180:   00000007c0006a20 00007fff37ca100a
+0x0000004f957ff190:   00000007c00476b8 0000018ccc2af800
+0x0000004f957ff1a0:   0000018cfde88698 00007fff9f27b86b 
+
+Instructions: (pc=0x00007fff37de96e0)
+0x00007fff37de96c0:   f0 7c 33 48 8b de e8 65 f1 08 00 48 63 d0 ff c6
+0x00007fff37de96d0:   48 0f af d3 49 8b ce 48 63 c6 48 2b ca 48 ff c3
+0x00007fff37de96e0:   c7 01 00 00 00 00 48 3b 05 cb 93 59 00 7e d7 48
+0x00007fff37de96f0:   8b 9d e8 00 00 00 48 8d 54 24 48 48 8d 4d 40 e8 
+
+
+Register to memory mapping:
+
+RAX=0x0000000000000004 is an unknown value
+RBX=0x0000000000000004 is an unknown value
+RCX=0x0000004f957fc0b0 is pointing into the stack for thread: 0x0000018ccc2af800
+RDX=0x0000000000003000 is an unknown value
+RSP=0x0000004f957ff0b0 is pointing into the stack for thread: 0x0000018ccc2af800
+RBP=0x0000004f957ff1b0 is pointing into the stack for thread: 0x0000018ccc2af800
+RSI=0x0000000000000004 is an unknown value
+RDI={method} {0x0000018cfde886a0} 'run' '()V' in 'java/util/TimerThread'
+R8 =0x0000000000000005 is an unknown value
+R9 =0x0000000000000006 is an unknown value
+R10=0x0000018ca7bcfca0 is an unknown value
+R11={method} {0x0000018cfde886a0} 'run' '()V' in 'java/util/TimerThread'
+R12=0x0000018cbb50afd0 is an unknown value
+R13=0x0000004f957ff3c0 is pointing into the stack for thread: 0x0000018ccc2af800
+R14=0x0000004f957ff0b0 is pointing into the stack for thread: 0x0000018ccc2af800
+R15=0x0000004f957ff490 is pointing into the stack for thread: 0x0000018ccc2af800
+
+
+Stack: [0x0000004f95700000,0x0000004f95800000],  sp=0x0000004f957ff0b0,  free space=1020k
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+V  [jvm.dll+0x2196e0]
+V  [jvm.dll+0x34b9b2]
+V  [jvm.dll+0x21abff]
+V  [jvm.dll+0x21a91b]
+V  [jvm.dll+0x18e04d]
+V  [jvm.dll+0x24e539]
