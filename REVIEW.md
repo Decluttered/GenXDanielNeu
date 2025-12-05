@@ -1086,8 +1086,7 @@ marshaller.marshal(aviso, new File(outputDir, fileName));
 
 If you need to explain WHY you removed something:
 ```java
-// Note: Dangerous goods support removed in version 2.0 
-// as it's now handled by a separate service
+// Note: Dangerous goods support was removed and is now handled by a separate service
 ```
 
 ---
